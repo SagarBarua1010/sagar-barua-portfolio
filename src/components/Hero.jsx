@@ -5,10 +5,10 @@ const resumeUrl =
   "https://drive.google.com/file/d/1lSd-PaULdd8YAXcNsaYRsG8DC7Lg3ebm/view?usp=sharing";
 const Hero = () => {
   return (
-    <div className="bg-gradient-to-r from-slate-900 to-slate-700 text-white text-center py-16">
+    <div className="bg-gradient-to-r  from-slate-900 to-slate-700 text-white text-center py-16">
       <img
         src={HeroImage}
-        alt=""
+        alt="sagar barua image"
         className="mx-auto mb-8 w-48 h-48 rounded-full object-cover object-left-top transform 
         transition-transform duration-300 hover:scale-105 bg-gradient-to-r from-pink-600 to-purple-500"
       />
